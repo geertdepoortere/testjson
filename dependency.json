@@ -8,7 +8,7 @@
     {"id": "OPS", "group": 3},
     {"id": "DATA", "group": 4},
     {"id": "SYSTEM", "group": 4},
-    {"id": "BEB", "group": 5},
+    {"id": "BEP", "group": 5},
     {"id": "CMI", "group": 5},
     {"id": "CNT", "group": 5},
     {"id": "CUO", "group": 5}
@@ -19,6 +19,11 @@
     {"source": "DATA", "target": "V7", "value": 1},
     {"source": "DATA", "target": "APP", "value": 1},
     {"source": "DATA", "target": "WEB", "value": 1},
-    {"source": "DATA", "target": "OPS", "value": 1}
+    {"source": "DATA", "target": "OPS", "value": 1},
+    {"source": "DATA", "target": "SYSTEM", "value": 1},
+    {"source": "DATA", "target": "BEB", "value": 1},
+    {"source": "DATA", "target": "CMI", "value": 1},
+    {"source": "DATA", "target": "CNT", "value": 1},
+    {"source": "DATA", "target": "CUO", "value": 1}
   ]
 }
