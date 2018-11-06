@@ -9,7 +9,7 @@
     {"id": "DATA", "group": 4},
     {"id": "SYSTEM", "group": 4},
     {"id": "BEB", "group": 5},
-    {"id": "CMT", "group": 5},
+    {"id": "CMI", "group": 5},
     {"id": "CNT", "group": 5},
     {"id": "CUO", "group": 5}
   ],
