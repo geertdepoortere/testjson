@@ -11,7 +11,7 @@
     {"id": "BEB", "group": 5},
     {"id": "CMT", "group": 5},
     {"id": "CNT", "group": 5},
-    {"id": "CUO", "group": 5},
+    {"id": "CUO", "group": 5}
   ],
   "links": [
     {"source": "DATA", "target": "V4V5", "value": 1},
