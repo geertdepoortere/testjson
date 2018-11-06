@@ -1,10 +1,24 @@
 {
   "nodes": [
     {"id": "V4V5", "group": 1},
-    {"id": "APP", "group": 1}
+    {"id": "V6", "group": 1},
+    {"id": "V7", "group": 1},
+    {"id": "APP", "group": 2},
+    {"id": "WEB", "group": 2},
+    {"id": "OPS", "group": 3},
+    {"id": "DATA", "group": 4},
+    {"id": "SYSTEM", "group": 4},
+    {"id": "BEB", "group": 5},
+    {"id": "CMT", "group": 5},
+    {"id": "CNT", "group": 5},
+    {"id": "CUO", "group": 5},
   ],
   "links": [
-    {"source": "V4V5", "target": "APP", "value": 1}
-    
+    {"source": "DATA", "target": "V4V5", "value": 1},
+    {"source": "DATA", "target": "V6", "value": 1},
+    {"source": "DATA", "target": "V7", "value": 1},
+    {"source": "DATA", "target": "APP", "value": 1},
+    {"source": "DATA", "target": "WEB", "value": 1},
+    {"source": "DATA", "target": "OPS", "value": 1}
   ]
 }
