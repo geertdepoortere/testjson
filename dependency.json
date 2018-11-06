@@ -24,6 +24,7 @@
     {"source": "DATA", "target": "BEP", "value": 1},
     {"source": "DATA", "target": "CMI", "value": 1},
     {"source": "DATA", "target": "CNT", "value": 1},
-    {"source": "DATA", "target": "CUO", "value": 1}
+    {"source": "DATA", "target": "CUO", "value": 1},
+    {"source": "SYSTEM", "target": "OPS", "value": 1}
   ]
 }
