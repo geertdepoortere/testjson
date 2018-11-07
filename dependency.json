@@ -85,6 +85,6 @@
     {"source": "V4V5", "target": "PSI", "value": 1},
     {"source": "V4V5", "target": "CMS", "value": 1},
     {"source": "V4V5", "target": "ARP", "value": 1},
-    {"source": "V4V5", "target": "CNT", "value": 1},
+    {"source": "V4V5", "target": "CNT", "value": 1}
   ]
 }
